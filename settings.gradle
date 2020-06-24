@@ -1,0 +1,2 @@
+rootProject.name='Jp2ConvertTest'
+include ':app', ':imageDecoderService'

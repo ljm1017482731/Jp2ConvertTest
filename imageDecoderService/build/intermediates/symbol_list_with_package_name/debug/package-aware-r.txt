@@ -1,0 +1,14 @@
+at.mroland.android.apps.imagedecoder
+drawable ic_application
+drawable nfcresearchlab_icon
+raw license
+raw license_jj2000
+string app_copyright
+string app_description
+string app_issuetracker_info
+string app_issuetracker_url
+string app_name
+string app_version
+string app_version_prefix
+string app_website1
+string app_website2

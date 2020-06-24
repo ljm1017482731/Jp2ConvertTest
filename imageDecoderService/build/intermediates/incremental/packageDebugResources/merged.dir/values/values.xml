@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_copyright">Copyright (c) 2012 Michael Roland,\nNFC Research Lab Hagenberg</string>
+    <string name="app_description">Decodes image formats used on electronic travel documents.</string>
+    <string name="app_issuetracker_info">
+    While we test our app prior to releases, there might still be some errors that cause unexpected
+    behavior and functional interruptions. If you happen to find such misbehavior please help us by
+    providing a so-called \"crash report\". You can also file bug reports or feature requests using
+    our issue tracker:
+  </string>
+    <string name="app_issuetracker_url"><u>http://issues.mroland.at/</u></string>
+    <string name="app_name">PassportImageDecoder</string>
+    <string name="app_version">1.00</string>
+    <string name="app_version_prefix">ver.</string>
+    <string name="app_website1"><u>http://www.nfc-research.at/</u></string>
+    <string name="app_website2"><u>http://www.mroland.at/</u></string>
+</resources>

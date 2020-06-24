@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml:34:1-37:12
+INJECTED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml:34:1-37:12
+INJECTED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml:34:1-37:12
+	package
+		ADDED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml:35:11-57
+		INJECTED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml
+		INJECTED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml:34:11-69
+uses-sdk
+INJECTED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml
+INJECTED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml
+INJECTED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml
+INJECTED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml
+		ADDED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml
+		INJECTED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml
+		ADDED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml
+		INJECTED from D:\as_project\Jp2ConvertTest\imageDecoderService\src\main\AndroidManifest.xml
